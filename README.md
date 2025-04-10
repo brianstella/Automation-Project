@@ -1,2 +1,2 @@
 # Automation-Project
-Prepare for automation project.
+Prepare for automation project with Liberty
